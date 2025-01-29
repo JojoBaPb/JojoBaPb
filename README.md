@@ -41,7 +41,7 @@ I'm an ambitious software engineer passionate about **efficiency, automation, an
 
 💼 **Portfolio:** [Coming Soon!]  
 💬 **LinkedIn:** [LinkedIn](https://linkedin.com/in/)  
-🐦 **Twitter/X:** (https://twitter.com/sipo_joe)  
+🐦 **Twitter/X:** https://twitter.com/sipo_joe  
 
 💡 *“Efficiency is doing things right; effectiveness is doing the right things.”* – Peter Drucker
 
