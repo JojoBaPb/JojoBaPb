@@ -32,16 +32,16 @@ I'm an ambitious software engineer passionate about **efficiency, automation, an
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JojoBaPb&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JojoBaPb&layout=compact&theme=radical)
 
 ---
 
 ### 📢 Let's Connect!
 
 💼 **Portfolio:** [Coming Soon!]  
-💬 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/)  
-🐦 **Twitter/X:** [@your-handle](https://twitter.com/sipo_joe)  
+💬 **LinkedIn:** [LinkedIn](https://linkedin.com/in/)  
+🐦 **Twitter/X:** (https://twitter.com/sipo_joe)  
 
 💡 *“Efficiency is doing things right; effectiveness is doing the right things.”* – Peter Drucker
 
