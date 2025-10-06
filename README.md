@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/1200x300/0B0C10/66FCF1?text=Sipo%20(Jojo)%20Mudenda" alt="Jojo - Cosmic Coder Banner">
+  <img src="https://placehold.co/1200x300/0B0C10/66FCF1?text=%20(Jojo)%20" alt="Jojo - Cosmic Coder Banner">
 </p>
 
 <h1 align="center">Hi, I'm Sipo (Jojo) 👋</h1>
