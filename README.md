@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jojobapb-portfolio.netlify.app/" target="_blank">
+  <a href="https://jojobapb-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-66FCF1?style=for-the-badge&logo=netlify&logoColor=black" alt="View My Portfolio">
   </a>
 </p>
@@ -19,9 +19,9 @@
 
 ### 🔭 I'm Currently Working On:
 
-* **Portfolio Website V2:** Iterating on my newly deployed personal portfolio with new features and optimizations.
-* **Game Matchmaking Algorithm:** Designing a Python-based algorithm to explore fair and intentionally unbalanced matchmaking scenarios. `(Expected Completion: October 2025)`
-* **Cybersecurity Studies:** Following a project-based roadmap to build a foundational understanding of cybersecurity principles.
+* **Portfolio Website V2:** Iterating on my personal portfolio with new features and optimizations.
+* **Game Matchmaking Algorithm:** Finalizing a Python-based algorithm exploring fair and intentionally unbalanced matchmaking scenarios.
+* **Cybersecurity Tools:** Developing honeytoken systems to detect unauthorized repository scanning.
 
 ---
 
@@ -69,10 +69,10 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/sipo-jojo-773a46337/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/sipo_joe" target="_blank">
+  <a href="https://twitter.com/sipo_joe" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
